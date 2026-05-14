@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1280x320?text=itsme-rida+%7C+Student+%7C+Fedora+Power+User" alt="Cover" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=51A2DA&center=true&vCenter=true&width=435&lines=Applied+Computer+Science+Student;Linux+Fedora+Power+User;Building+with+PHP+and+Python" alt="Typing SVG" />
+  </a>
 </p>
 
 # Hi, I'm Rida! 👋
@@ -32,7 +34,11 @@ I am a university student currently studying **Applied Computer Science (Informa
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsme-rida&show_icons=true&theme=onedark" alt="itsme-rida's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsme-rida&show_icons=true&theme=tokyonight" alt="itsme-rida's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-rida&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -40,3 +46,7 @@ I am a university student currently studying **Applied Computer Science (Informa
 ### 📫 Let's Connect!
 - 📍 Meknes, Morocco
 - 💻 Currently focusing on PHP development and Full-stack technologies.
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=itsme-rida&color=blueviolet" alt="Visitors" />
+</p>
