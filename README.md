@@ -1,8 +1,8 @@
 # Hi, I'm Rida! 👋
 
-### 🚀 Applied Computer Science Student | Tech Enthusiast | Creative Writer
+### 🚀 Applied Computer Science Student | Tech Enthusiast
 
-I am a university student currently studying **Applied Computer Science (Informatics)** based in Meknes, Morocco. I love building digital experiences, from coding complex systems to managing Minecraft communities.
+I am a university student currently studying **Applied Computer Science (Informatics)** based in Meknes, Morocco. I am focused on building efficient web applications and exploring system-level programming.
 
 ---
 
@@ -16,17 +16,10 @@ I am a university student currently studying **Applied Computer Science (Informa
 
 ### 📁 Featured Projects
 
-- **[all-4u.art](https://all-4u.art):** A web tool for downloading YouTube thumbnails.
-- **Messages from Tomorrow:** A surreal mystery and dark fantasy novel project.
-- **Server Management:** Managing cross-play Minecraft servers using PaperMC and EssentialsX.
-
----
-
-### ✍️ Creative Interests
-Beyond coding, I spend my time songwriting (rap and humor) and crafting stories. My novel "Messages from Tomorrow" is currently my main creative focus.
+- **[all-4u.art](https://all-4u.art):** A web tool developed for processing and downloading digital media assets.
 
 ---
 
 ### 📫 Let's Connect!
 - 📍 Meknes, Morocco
-- 💻 Currently improving my skills in PHP and web technologies.
+- 💻 Currently focusing on PHP development and Full-stack technologies.
